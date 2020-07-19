@@ -8,4 +8,3 @@ Pandas
 numpy
 matplotlib
 seaborn
-
