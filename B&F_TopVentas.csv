@@ -1,0 +1,17 @@
+Location,Month,Day_Type,Day,Total
+Tienda A,Enero,Entre Semana,Miercoles,65
+Tienda A,Enero,Fin de Semana,Sábado,127
+Tienda B,Enero,Entre Semana,Miercoles,34
+Tienda B,Enero,Fin de Semana,Sábado,50
+Tienda A,Febrero,Entre Semana,Lunes,41
+Tienda A,Febrero,Fin de Semana,Sábado,99
+Tienda B,Febrero,Entre Semana,Lunes,34
+Tienda B,Febrero,Fin de Semana,Sábado,55
+Tienda C,Febrero,Entre Semana,Lunes,8
+Tienda C,Febrero,Fin de Semana,Sábado,16
+Tienda A,Marzo,Entre Semana,Jueves,60
+Tienda A,Marzo,Fin de Semana,Sábado,112
+Tienda B,Marzo,Entre Semana,Jueves,34
+Tienda B,Marzo,Fin de Semana,Sábado,61
+Tienda C,Marzo,Entre Semana,Jueves,12
+Tienda C,Marzo,Fin de Semana,Sábado,26
