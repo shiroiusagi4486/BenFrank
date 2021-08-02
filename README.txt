@@ -18,3 +18,6 @@ Las gráficas serán generadas en Tableau version 10.4
 Con ellas podemos observar las gráficas de ventas, divididas por tiendas, por meses, por dias de la semana y mostramos los dias de la semana junto a las horas donde se han presentado la mayor cantidad de ventas y el ingreso de las mismas
 
 Dentro de las gráficas tambien se ve que dia de la semana (entre semana o fin de semana) es el que se realizan mas ventas e incluso a que hora suceden las ventas
+
+Archivos del examen en google drive
+https://drive.google.com/drive/folders/1VyBEDs3U5HRt8jm8mW24xwFYcjIeXQy3?usp=sharing
